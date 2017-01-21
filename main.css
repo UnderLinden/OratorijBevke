@@ -1,0 +1,29 @@
+body{
+  background-image: url("./unnamed.jpg");
+  margin: 0;
+}
+
+h1{
+  font-family: helvetica;
+  font-size: 32px;
+  font-style: bold;
+  color: midnightblue;
+  background: white;
+ 
+}
+
+h2{  
+  font-family: helvetica;
+  font-size: 24px;
+  font-style: bold;
+  color: blue;
+  background: white;
+  margin-left: 10px;
+  margin-right: 1000px;
+}
+
+.Paragraf{
+  font-family: helvetica;
+  font-size: 18px;
+  color: black;
+}
